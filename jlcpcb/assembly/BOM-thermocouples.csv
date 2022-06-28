@@ -1,0 +1,9 @@
+Comment,Designator,Footprint,LCSC
+0.1u,"C7,C8",C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C1591
+0.047u,"C1,C3,C4,C6",C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C1622
+0.47u,"C2,C5",C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,C1623
+0.47,"R5,R6,R7,R8",R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C23411
+1M,"R1,R2,R3,R4",R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,C26098
+ADS1120-RVA,U1,Texas_S-PVQFN-N16_EP2.7x2.7mm,C2861236
+Conn_02x15_Odd_Even,"J1,J2",PinSocket_1x18_P2.54mm_Vertical,C429959
+Conn_01x02,"J3,J4","TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal",C8404

@@ -1,0 +1,18 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,0.047u,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,103.0,-62.0,0.0,top
+C2,0.47u,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,107.0,-62.0,0.0,top
+C3,0.047u,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,111.0,-62.0,0.0,top
+C4,0.047u,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,111.0,-71.0,180.0,top
+C5,0.47u,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,107.0,-71.0,180.0,top
+C6,0.047u,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,103.0,-71.0,180.0,top
+C7,0.1u,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,102.0,-65.0,180.0,top
+C8,0.1u,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,102.0,-67.0,180.0,top
+R1,1M,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,103.0,-56.0,0.0,top
+R2,1M,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,111.0,-56.0,0.0,top
+R3,1M,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,111.0,-77.0,180.0,top
+R4,1M,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,103.0,-77.0,180.0,top
+R5,0.47,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,105.0,-59.0,-90.0,top
+R6,0.47,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,109.0,-59.0,-90.0,top
+R7,0.47,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,109.0,-74.0,90.0,top
+R8,0.47,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,105.0,-74.0,90.0,top
+U1,ADS1120-RVA,Texas_S-PVQFN-N16_EP2.7x2.7mm,107.0,-66.0,180.0,top
